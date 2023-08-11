@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(214, 235, 151);
+}
+img{
+    border-radius: 50%;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+p1 {
+    position: absolute;
+    left: 300px;
+    top: 280px;
+}
+p2 {
+    position: absolute;
+    left: 295px;
+    top: 310px;
+}
+p3 {
+    position: absolute;
+    left: 90px;
+    top: 490px;
+}
+h1 {
+    position: absolute;
+    left: 600px;
+    top: 100px;
+}
+#header {
+    background-color: rgb(249, 167, 86);
+    height: 300px;
+}
+p4 {
+    position: absolute;
+    left: 140px;
+    top: 450px;
+    border: 5px solid honeydew;
+    background-color: antiquewhite;
+    display: inline-block;
+}
+p5 {
+    position: absolute;
+    left: 90px;
+    top: 560px;
+}
+p6 {
+    position: absolute;
+    left: 700px;
+    top: 450px;
+    border: 5px solid honeydew;
+    background-color: antiquewhite;
+    display: inline-block;
+}
+p7 {
+    position: absolute;
+    left: 650px;
+    top: 490px;
+}
+p8 {
+    position: absolute;
+    left: 640px;
+    top: 530px;
+}
+p9 {
+    position: absolute;
+    left: 1100px;
+    top: 450px;
+    border: 5px solid honeydew;
+    background-color: antiquewhite;
+    display: inline-block;
+}
+p10 {
+    position: absolute;
+    left: 1050px;
+    top: 490px;
+}
+p11 {
+    position: absolute;
+    left: 1050px;
+    top: 530px;
+}
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button1 {background-color: #4CAF50;}
+a{
+    position: relative;
+    left: 640px;
+    top: 300px;
+}
